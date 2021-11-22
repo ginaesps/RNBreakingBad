@@ -22,7 +22,7 @@ const Component = (props: Props) => {
 const styles = StyleSheet.create({
   Container: {
     backgroundColor: colors.primary,
-    borderColor: colors.secondary,
+    borderColor: colors.white,
     borderBottomWidth: 0.5,
     height: 100,
   },
